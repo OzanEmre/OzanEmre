@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Boyner Group
+🔭 I’m currently working for Boyner Group
 
 👨‍💻 I have been in web, web api and service projects on Asp.NET (MVC, Razor), C#, MSSQL, EF, Autofac, Dapper, jQuery, React, Angular, Git, Jira, TFS, Bitbucket, Teamcity&Octopus, Jenkins, Kanban, Scrum, Elasticsearch, Kibana, Logstash, RabbitMQ, Redis, MongoDB.
 
