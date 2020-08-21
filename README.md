@@ -14,16 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=OzanEmre&show_icons=true">
+
+# Hi, I'm Ozan Emre.
+
 🔭 I’m currently working for Boyner Group
 
 👨‍💻 I have been in web, web api and service projects on Asp.NET (MVC, Razor), C#, MSSQL, EF, Autofac, Dapper, jQuery, React, Angular, Git, Jira, TFS, Bitbucket, Teamcity&Octopus, Jenkins, Kanban, Scrum, Elasticsearch, Kibana, Logstash, RabbitMQ, Redis, MongoDB.
 
-👀 If I have any time, I interested Dotnet Core, Python, Go, Node.js, SpringBoot, Java, Kotlin, Flutter, Dart, Ruby, Unity 3D, Machine Learning, AI, Electron, Elasticsearch, Redis, RabbitMQ, PostgreSQL, MongoDB, Docker and Kubernetes. 
-
-🏃‍♂️ And I am studying to improve my English.
-
 👨‍🎓 I gradueted from Computer Technology and Programming from Istanbul Aydin University with an Associate's degree.
 
-Best Regards.
+# Interests
+👀 If I have any time, I interested Dotnet Core, Python, Go, Node.js, SpringBoot, Java, Kotlin, Flutter, Dart, Ruby, Unity 3D, Machine Learning, AI, Electron, Elasticsearch, Redis, RabbitMQ, PostgreSQL, MongoDB, Docker and Kubernetes. 
+<!--
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&color=d0d0d0)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas&color=d0d0d0)]()
+[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow&color=d0d0d0)]()
+[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras&color=d0d0d0)]()
+[![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask&color=d0d0d0)]()
+-->
 
-Ozan Emre Degirmenci 
+🏃‍♂️ And I am studying to improve my English.
