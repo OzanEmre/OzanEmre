@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 👨‍🎓 I gradueted from Computer Technology and Programming from Istanbul Aydin University with an Associate's degree.
 
 # Interests
-👀 If I have any time, I interested Dotnet Core, Python, Go, Node.js, SpringBoot, Java, Kotlin, Flutter, Dart, Ruby, Unity 3D, Machine Learning, AI, Electron, Elasticsearch, Redis, RabbitMQ, PostgreSQL, MongoDB, Docker and Kubernetes. 
+👀 If I have any time, I interested Dotnet Core, Python, Go, Node.js, SpringBoot..
+
+<!--, Java, Kotlin, Flutter, Dart, Ruby, Unity 3D, Machine Learning, AI, Electron, Elasticsearch, Redis, RabbitMQ, PostgreSQL, MongoDB, Docker and Kubernetes. -->
 <!--
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&color=d0d0d0)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas&color=d0d0d0)]()
