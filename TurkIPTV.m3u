@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/7900439.png" tvg-country="TR" tvg-url="" group-title="",TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" tvg-country="TR" tvg-url="" group-title="News",TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" tvg-country="TR" tvg-url="" group-title="Sport",TRT Spor
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Spor 2" tvg-name="TRT Spor 2" tvg-language="Turkish" tvg-logo="https://www.trtspor.com.tr/static/img/trt-spor-2-mobile.png" tvg-country="TR" tvg-url="" group-title="Sport",TRT Spor 2
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT Cocuk" tvg-name="TRT Cocuk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" tvg-country="TR" tvg-url="" group-title="Kids",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT 2" tvg-name="TRT 2" tvg-language="Turkish" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/7900419.png" tvg-country="TR" tvg-url="" group-title="",TRT 2
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT BELGESEL" tvg-name="TRT BELGESEL" tvg-language="Turkish" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/7900403.png" tvg-country="TR" tvg-url="" group-title="",TRT BELGESEL
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Avaz" tvg-name="TRT Avaz" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-country="TR" tvg-url="" group-title="",TRT Avaz
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Türk" tvg-name="TRT Türk" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" tvg-country="TR" tvg-url="" group-title="",TRT Türk
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT Muzik" tvg-name="TRT Muzik" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" tvg-country="TR" tvg-url="" group-title="Music",TRT Muzik
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Star TV" tvg-name="Star TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/FKfPTrd/star-tv.png" tvg-country="TR" tvg-url="" group-title="",Star TV
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="EuroStar" tvg-name="EuroStar" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" tvg-country="TR" tvg-url="" group-title="",EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Show" tvg-name="Show" tvg-language="Turkish" tvg-logo="https://m.showtv.com.tr/assets/v2/images/mobile/logo/showtv.svg" tvg-country="TR" tvg-url="" group-title="",Show
+https://ciner-live.ercdn.net/showtv/playlist.m3u8?e=1609258436&st=E82yGmsjUUYSQPHVVfecLw&tv=1
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-language="Turkish" tvg-logo="https://www.tlctv.com.tr/assets/theme/assets/images/logo.png?v=1.0.1" tvg-country="TR" tvg-url="" group-title="",TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" tvg-country="TR" tvg-url="" group-title="News",NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HABERTÜRK" tvg-name="HABERTÜRK" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" tvg-country="TR" tvg-url="" group-title="News",HABERTÜRK
+https://ciner-live.ercdn.net/haberturk/playlist.m3u8?e=1609255207&st=wuA8F1TjnEqM_SChjT0cQg&tv=1
+
+
+#EXTINF:-1 tvg-id="Kon TV" tvg-name="Kon TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" tvg-country="TR" tvg-url="" group-title="",Kon TV
+https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cay TV" tvg-name="Cay TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" tvg-country="TR" tvg-url="" group-title="",Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+
+#EXTINF:-1 tvg-id="Türkmeneli" tvg-name="Türkmeneli" tvg-language="Turkish" tvg-logo="http://www.turkmenelitv.com/images/logotextson.png" tvg-country="IQ" tvg-url="" group-title="General",Türkmeneli
+http://116.203.71.169/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="UçanKuş TV" tvg-name="UçanKuş TV" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" tvg-country="TR" tvg-url="" group-title="",UçanKuş TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+
+#EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" tvg-country="TR" tvg-url="" group-title="News",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
