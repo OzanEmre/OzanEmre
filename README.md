@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=OzanEmre&show_icons=true&theme=tokyonight&text_color=308cb8&icon_color=308cb8">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=OzanEmre&show_icons=true&theme=tokyonight&text_color=308cb8&icon_color=308cb8&hide_border=true">
 
 # Hi, I'm Ozan Emre.
 
